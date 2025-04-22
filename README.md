@@ -24,7 +24,6 @@ Use it as part of their internship assignments or learning projects.
 Showcase awareness-based apps in their portfolio.
 
 A simple and practical project to help students apply what they've learned in a real-world educational context.
-
 # Screenshorts
 ![WhatsApp Image 2025-04-22 at 2 14 50 PM (1)](https://github.com/user-attachments/assets/6040a409-aeb6-4c19-90e6-587a6d6b9cd9)
 
