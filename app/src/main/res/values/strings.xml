@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Call Guard  - Spam Awareness</string>
+    <string name="main_title">Protect Yourself from Call Spammers!</string>
+    <string name="spam_types">Spam Types</string>
+    <string name="safety_tips">Safety Tips</string>
+    <string name="red_flags">Red Flags</string>
+    <string name="about">About</string>
+    <string name="emergency_help">Emergency Help</string>
+
+    <string name="about_app">Welcome to our Informative Application!
+This app is designed solely for educational purposes — to help users stay informed and aware of common online threats and safe practices.\n\n
+
+In today’s digital world, understanding how to recognize and avoid scams and spam is essential. This application provides valuable information about:\n\n
+    Spam Types\n
+Learn about different types of spam like email spam, SMS scams, phishing links, fake social media profiles, and more.\n\n
+    Safety Tips\n
+Discover simple but effective tips to protect your personal information, avoid suspicious links, secure your devices, and browse the internet safely.\n\n
+    Red Flags\n
+Understand the common warning signs of scams and frauds, such as too-good-to-be-true offers, urgent payment requests, fake job postings, and suspicious messages.
+    \n\nOur goal is to help you stay alert, informed, and secure in the digital world.
+This app does not collect any personal data and is purely meant to spread awareness and promote safe online habits.</string>
+</resources>

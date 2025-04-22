@@ -1,0 +1,12 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:tint="?attr/colorControlNormal">
+
+    <!-- Emergency star shape -->
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M21,11h-3.17l2.24,-3.87c0.27,-0.46 0.11,-1.05 -0.35,-1.33l-1.73,-1c-0.46,-0.27 -1.05,-0.11 -1.33,0.35L14.83,9H9.17L8.34,5.15C8.07,4.69 7.48,4.53 7.02,4.8l-1.73,1c-0.46,0.27 -0.62,0.87 -0.35,1.33L7.17,11H4c-0.55,0 -1,0.45 -1,1v2c0,0.55 0.45,1 1,1h3.17l-2.24,3.87c-0.27,0.46 -0.11,1.05 0.35,1.33l1.73,1c0.46,0.27 1.05,0.11 1.33,-0.35L9.17,15h5.66l0.83,3.85c0.27,0.46 0.87,0.62 1.33,0.35l1.73,-1c0.46,-0.27 0.62,-0.87 0.35,-1.33L16.83,15H21c0.55,0 1,-0.45 1,-1v-2c0,-0.55 -0.45,-1 -1,-1z"/>
+</vector>
